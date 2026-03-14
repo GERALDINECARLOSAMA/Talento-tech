@@ -1,0 +1,1 @@
+Ejercicios en google coloab para crear y aprender sobre las redes neuronales(regresion o  clasificacion)
